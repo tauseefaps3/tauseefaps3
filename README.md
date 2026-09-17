@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./assets/baboons-logo.png" width="96" alt="Baboons" />
-
   <h1>Tauseef Ur Rahman</h1>
 
   <p><b>Full-Stack Engineer</b> · React · React Native · Next.js · Node.js · Django · AI Integration</p>
@@ -23,7 +21,7 @@
 Full-stack engineer with **5+ years** of experience designing and shipping production web and mobile products — from the first Figma handoff to a deployed, monitored release. I work across the whole stack: React and Next.js on the front end, React Native for mobile, and Node.js or Django on the back end, with a growing focus on building **AI-powered features** into real products.
 
 - 💼 Currently a **Full-Stack Developer at Baboons**
-- 🔭 Building **[dream-stream](https://github.com/tauseefaps3)** — a real-time streaming platform
+- 🔭 Building modern, production-ready applications with scalable architecture
 - 🤖 Focused on **LLM integration**: RAG pipelines, agents, function calling, and AI-assisted UX
 - 🏗️ I care about clean architecture, typed codebases, sensible tests, and fast load times
 - 🌍 Based in Pakistan · open to remote collaboration
@@ -88,6 +86,12 @@ Full-stack engineer with **5+ years** of experience designing and shipping produ
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-8FE3A1?style=for-the-badge&logo=probot&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Vector%20Search-1C3C3C?style=for-the-badge&logo=databricks&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN%20%2F%20Deep%20Learning-005571?style=for-the-badge&logo=pytorchlightning&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Testing & Tooling**
 
@@ -106,16 +110,6 @@ Full-stack engineer with **5+ years** of experience designing and shipping produ
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## Selected Work
-
-| Project | Description | Stack |
-|---|---|---|
-| **dream-stream** | Real-time streaming platform with live sessions and low-latency playback | React · Node.js · WebSockets |
-| _Add a project_ | One line on the problem it solves and the outcome | Stack |
-| _Add a project_ | One line on the problem it solves and the outcome | Stack |
 
 ---
 
