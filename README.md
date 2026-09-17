@@ -21,7 +21,7 @@
 Full-stack engineer with **5+ years** of experience designing and shipping production web and mobile products — from the first Figma handoff to a deployed, monitored release. I work across the whole stack: React and Next.js on the front end, React Native for mobile, and Node.js or Django on the back end, with a growing focus on building **AI-powered features** into real products.
 
 - 💼 Currently a **Full-Stack Developer at Baboons**
-- 🔭 Building modern, production-ready applications with scalable architecture
+- 🔭 Building modern, production-ready applications with scalable architecture.
 - 🤖 Focused on **LLM integration**: RAG pipelines, agents, function calling, and AI-assisted UX
 - 🏗️ I care about clean architecture, typed codebases, sensible tests, and fast load times
 - 🌍 Based in Pakistan · open to remote collaboration
@@ -116,16 +116,12 @@ Full-stack engineer with **5+ years** of experience designing and shipping produ
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tauseefaps3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8FE3A1&text_color=C9D1D9&icon_color=8FE3A1" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tauseefaps3&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8FE3A1&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=tauseefaps3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8FE3A1&text_color=C9D1D9&icon_color=8FE3A1" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=tauseefaps3&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8FE3A1&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tauseefaps3&hide_border=true&background=0D1117&ring=8FE3A1&fire=8FE3A1&currStreakLabel=8FE3A1&stroke=8FE3A1&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tauseefaps3&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
