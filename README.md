@@ -113,21 +113,4 @@ Full-stack engineer with **5+ years** of experience designing and shipping produ
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=tauseefaps3&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8FE3A1&text_color=C9D1D9&icon_color=8FE3A1" alt="GitHub stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=tauseefaps3&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8FE3A1&text_color=C9D1D9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tauseefaps3&hide_border=true&background=0D1117&ring=8FE3A1&fire=8FE3A1&currStreakLabel=8FE3A1&stroke=8FE3A1&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub streak" />
-</div>
-
----
-
-<div align="center">
-  <b>Open to interesting problems.</b><br />
-  <a href="mailto:tauseefaps3@gmail.com">tauseefaps3@gmail.com</a> ·
-  <a href="https://linkedin.com/in/tauseef-ur-rahman-078a25201">LinkedIn</a>
-</div>
